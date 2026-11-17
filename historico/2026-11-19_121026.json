@@ -490,9 +490,9 @@
     },
     "AM": {
       "total": 59,
-      "aderiram": 45,
-      "pct": 76.3,
-      "meta_fisica_aceita": 8650,
+      "aderiram": 49,
+      "pct": 83.1,
+      "meta_fisica_aceita": 9250,
       "municipios": [
         {
           "nome": "MAUÉS",
@@ -551,6 +551,10 @@
           "meta": 200.0
         },
         {
+          "nome": "GUAJARÁ",
+          "meta": 200.0
+        },
+        {
           "nome": "ITAPIRANGA",
           "meta": 200.0
         },
@@ -579,6 +583,10 @@
           "meta": 150.0
         },
         {
+          "nome": "EIRUNEPÉ",
+          "meta": 150.0
+        },
+        {
           "nome": "HUMAITÁ",
           "meta": 150.0
         },
@@ -588,6 +596,10 @@
         },
         {
           "nome": "IRANDUBA",
+          "meta": 150.0
+        },
+        {
+          "nome": "LÁBREA",
           "meta": 150.0
         },
         {
@@ -640,6 +652,10 @@
         },
         {
           "nome": "CAAPIRANGA",
+          "meta": 100.0
+        },
+        {
+          "nome": "ITAMARATI",
           "meta": 100.0
         },
         {
@@ -742,9 +758,9 @@
     },
     "BA": {
       "total": 371,
-      "aderiram": 305,
-      "pct": 82.2,
-      "meta_fisica_aceita": 61700,
+      "aderiram": 315,
+      "pct": 84.9,
+      "meta_fisica_aceita": 63600,
       "municipios": [
         {
           "nome": "SENHOR DO BONFIM",
@@ -792,6 +808,10 @@
         },
         {
           "nome": "CATU",
+          "meta": 400.0
+        },
+        {
+          "nome": "JAGUAQUARA",
           "meta": 400.0
         },
         {
@@ -1163,6 +1183,10 @@
           "meta": 200.0
         },
         {
+          "nome": "GENTIO DO OURO",
+          "meta": 200.0
+        },
+        {
           "nome": "GLÓRIA",
           "meta": 200.0
         },
@@ -1208,6 +1232,14 @@
         },
         {
           "nome": "IPUPIARA",
+          "meta": 200.0
+        },
+        {
+          "nome": "IRAJUBA",
+          "meta": 200.0
+        },
+        {
+          "nome": "ITABERABA",
           "meta": 200.0
         },
         {
@@ -1336,6 +1368,10 @@
         },
         {
           "nome": "PÉ DE SERRA",
+          "meta": 200.0
+        },
+        {
+          "nome": "PEDRO ALEXANDRE",
           "meta": 200.0
         },
         {
@@ -1579,11 +1615,23 @@
           "meta": 150.0
         },
         {
+          "nome": "OLINDINA",
+          "meta": 150.0
+        },
+        {
+          "nome": "RIBEIRA DO POMBAL",
+          "meta": 150.0
+        },
+        {
           "nome": "RIO DO PIRES",
           "meta": 150.0
         },
         {
           "nome": "SANTA CRUZ CABRÁLIA",
+          "meta": 150.0
+        },
+        {
+          "nome": "SANTO ESTÊVÃO",
           "meta": 150.0
         },
         {
@@ -1608,6 +1656,10 @@
         },
         {
           "nome": "SENTO SÉ",
+          "meta": 150.0
+        },
+        {
+          "nome": "UBAITABA",
           "meta": 150.0
         },
         {
@@ -1784,6 +1836,10 @@
         },
         {
           "nome": "ITAMARI",
+          "meta": 100.0
+        },
+        {
+          "nome": "ITANAGRA",
           "meta": 100.0
         },
         {
@@ -2721,9 +2777,9 @@
     },
     "ES": {
       "total": 46,
-      "aderiram": 27,
-      "pct": 58.7,
-      "meta_fisica_aceita": 4450,
+      "aderiram": 31,
+      "pct": 67.4,
+      "meta_fisica_aceita": 4950,
       "municipios": [
         {
           "nome": "ARACRUZ",
@@ -2759,6 +2815,14 @@
         },
         {
           "nome": "GUAÇUÍ",
+          "meta": 150.0
+        },
+        {
+          "nome": "IÚNA",
+          "meta": 150.0
+        },
+        {
+          "nome": "MARATAÍZES",
           "meta": 150.0
         },
         {
@@ -2802,6 +2866,14 @@
           "meta": 100.0
         },
         {
+          "nome": "IRUPI",
+          "meta": 100.0
+        },
+        {
+          "nome": "JOÃO NEIVA",
+          "meta": 100.0
+        },
+        {
           "nome": "MANTENÓPOLIS",
           "meta": 100.0
         },
@@ -2837,13 +2909,17 @@
     },
     "GO": {
       "total": 119,
-      "aderiram": 87,
-      "pct": 73.1,
-      "meta_fisica_aceita": 12950,
+      "aderiram": 94,
+      "pct": 79.0,
+      "meta_fisica_aceita": 13950,
       "municipios": [
         {
           "nome": "GOIÂNIA",
           "meta": 1500.0
+        },
+        {
+          "nome": "CIDADE OCIDENTAL",
+          "meta": 400.0
         },
         {
           "nome": "ANICUNS",
@@ -3002,6 +3078,10 @@
           "meta": 100.0
         },
         {
+          "nome": "ARAGOIÂNIA",
+          "meta": 100.0
+        },
+        {
           "nome": "ARAGUAPAZ",
           "meta": 100.0
         },
@@ -3038,6 +3118,10 @@
           "meta": 100.0
         },
         {
+          "nome": "CAMPESTRE DE GOIÁS",
+          "meta": 100.0
+        },
+        {
           "nome": "CAMPINORTE",
           "meta": 100.0
         },
@@ -3054,11 +3138,19 @@
           "meta": 100.0
         },
         {
+          "nome": "COCALZINHO DE GOIÁS",
+          "meta": 100.0
+        },
+        {
           "nome": "COLINAS DO SUL",
           "meta": 100.0
         },
         {
           "nome": "CRIXÁS",
+          "meta": 100.0
+        },
+        {
+          "nome": "DAMIANÓPOLIS",
           "meta": 100.0
         },
         {
@@ -3087,6 +3179,10 @@
         },
         {
           "nome": "HEITORAÍ",
+          "meta": 100.0
+        },
+        {
+          "nome": "INHUMAS",
           "meta": 100.0
         },
         {
@@ -3146,6 +3242,10 @@
           "meta": 100.0
         },
         {
+          "nome": "SANTA BÁRBARA DE GOIÁS",
+          "meta": 100.0
+        },
+        {
           "nome": "SANTA TEREZINHA DE GOIÁS",
           "meta": 100.0
         },
@@ -3193,9 +3293,9 @@
     },
     "MA": {
       "total": 213,
-      "aderiram": 194,
-      "pct": 91.1,
-      "meta_fisica_aceita": 51100,
+      "aderiram": 200,
+      "pct": 93.9,
+      "meta_fisica_aceita": 52450,
       "municipios": [
         {
           "nome": "CAXIAS",
@@ -3276,6 +3376,10 @@
         {
           "nome": "TUTÓIA",
           "meta": 400.0
+        },
+        {
+          "nome": "ALCÂNTARA",
+          "meta": 300.0
         },
         {
           "nome": "ALTO ALEGRE DO PINDARÉ",
@@ -3422,6 +3526,10 @@
           "meta": 300.0
         },
         {
+          "nome": "SÃO JOÃO DOS PATOS",
+          "meta": 300.0
+        },
+        {
           "nome": "SÃO LUÍS GONZAGA DO MARANHÃO",
           "meta": 300.0
         },
@@ -3498,6 +3606,10 @@
           "meta": 200.0
         },
         {
+          "nome": "APICUM-AÇU",
+          "meta": 200.0
+        },
+        {
           "nome": "ARAGUANÃ",
           "meta": 200.0
         },
@@ -3559,6 +3671,10 @@
         },
         {
           "nome": "CENTRO NOVO DO MARANHÃO",
+          "meta": 200.0
+        },
+        {
+          "nome": "CIDELÂNDIA",
           "meta": 200.0
         },
         {
@@ -3858,11 +3974,19 @@
           "meta": 200.0
         },
         {
+          "nome": "TUFILÂNDIA",
+          "meta": 200.0
+        },
+        {
           "nome": "ALDEIAS ALTAS",
           "meta": 150.0
         },
         {
           "nome": "ALTO ALEGRE DO MARANHÃO",
+          "meta": 150.0
+        },
+        {
+          "nome": "BACURITUBA",
           "meta": 150.0
         },
         {
@@ -3977,9 +4101,9 @@
     },
     "MG": {
       "total": 318,
-      "aderiram": 213,
-      "pct": 67.0,
-      "meta_fisica_aceita": 34650,
+      "aderiram": 233,
+      "pct": 73.3,
+      "meta_fisica_aceita": 37750,
       "municipios": [
         {
           "nome": "MONTES CLAROS",
@@ -4007,6 +4131,10 @@
         },
         {
           "nome": "CARANGOLA",
+          "meta": 600.0
+        },
+        {
+          "nome": "CURVELO",
           "meta": 600.0
         },
         {
@@ -4126,7 +4254,15 @@
           "meta": 200.0
         },
         {
+          "nome": "FRUTAL",
+          "meta": 200.0
+        },
+        {
           "nome": "GUARACIAMA",
+          "meta": 200.0
+        },
+        {
+          "nome": "IAPU",
           "meta": 200.0
         },
         {
@@ -4135,6 +4271,10 @@
         },
         {
           "nome": "ITAIPÉ",
+          "meta": 200.0
+        },
+        {
+          "nome": "ITAJUBÁ",
           "meta": 200.0
         },
         {
@@ -4206,11 +4346,19 @@
           "meta": 200.0
         },
         {
+          "nome": "PINTÓPOLIS",
+          "meta": 200.0
+        },
+        {
           "nome": "SANTA HELENA DE MINAS",
           "meta": 200.0
         },
         {
           "nome": "SANTO ANTÔNIO DO MONTE",
+          "meta": 200.0
+        },
+        {
+          "nome": "SANTO ANTÔNIO DO RETIRO",
           "meta": 200.0
         },
         {
@@ -4290,6 +4438,10 @@
           "meta": 150.0
         },
         {
+          "nome": "MONTE AZUL",
+          "meta": 150.0
+        },
+        {
           "nome": "MONTE FORMOSO",
           "meta": 150.0
         },
@@ -4322,6 +4474,10 @@
           "meta": 150.0
         },
         {
+          "nome": "RIO PARDO DE MINAS",
+          "meta": 150.0
+        },
+        {
           "nome": "SÃO GONÇALO DO SAPUCAÍ",
           "meta": 150.0
         },
@@ -4343,6 +4499,10 @@
         },
         {
           "nome": "ALVARENGA",
+          "meta": 100.0
+        },
+        {
+          "nome": "ANGELÂNDIA",
           "meta": 100.0
         },
         {
@@ -4370,11 +4530,19 @@
           "meta": 100.0
         },
         {
+          "nome": "BERIZAL",
+          "meta": 100.0
+        },
+        {
           "nome": "BOM SUCESSO",
           "meta": 100.0
         },
         {
           "nome": "BOTUMIRIM",
+          "meta": 100.0
+        },
+        {
+          "nome": "CAIANA",
           "meta": 100.0
         },
         {
@@ -4442,6 +4610,10 @@
           "meta": 100.0
         },
         {
+          "nome": "CHALÉ",
+          "meta": 100.0
+        },
+        {
           "nome": "CHAPADA DO NORTE",
           "meta": 100.0
         },
@@ -4494,11 +4666,19 @@
           "meta": 100.0
         },
         {
+          "nome": "DIVISA ALEGRE",
+          "meta": 100.0
+        },
+        {
           "nome": "ERVÁLIA",
           "meta": 100.0
         },
         {
           "nome": "ESPÍRITO SANTO DO DOURADO",
+          "meta": 100.0
+        },
+        {
+          "nome": "ESTIVA",
           "meta": 100.0
         },
         {
@@ -4514,11 +4694,19 @@
           "meta": 100.0
         },
         {
+          "nome": "FORMOSO",
+          "meta": 100.0
+        },
+        {
           "nome": "FRANCISCO BADARÓ",
           "meta": 100.0
         },
         {
           "nome": "FRANCISCO DUMONT",
+          "meta": 100.0
+        },
+        {
+          "nome": "FRANCISCÓPOLIS",
           "meta": 100.0
         },
         {
@@ -4543,6 +4731,10 @@
         },
         {
           "nome": "GRÃO MOGOL",
+          "meta": 100.0
+        },
+        {
+          "nome": "GUIMARÂNIA",
           "meta": 100.0
         },
         {
@@ -4571,6 +4763,10 @@
         },
         {
           "nome": "JOSÉ GONÇALVES DE MINAS",
+          "meta": 100.0
+        },
+        {
+          "nome": "JOSENÓPOLIS",
           "meta": 100.0
         },
         {
@@ -4778,7 +4974,15 @@
           "meta": 100.0
         },
         {
+          "nome": "SÃO ROMÃO",
+          "meta": 100.0
+        },
+        {
           "nome": "SÃO SEBASTIÃO DA BELA VISTA",
+          "meta": 100.0
+        },
+        {
+          "nome": "SÃO TOMÁS DE AQUINO",
           "meta": 100.0
         },
         {
@@ -4929,9 +5133,9 @@
     },
     "MT": {
       "total": 52,
-      "aderiram": 20,
-      "pct": 38.5,
-      "meta_fisica_aceita": 2700,
+      "aderiram": 23,
+      "pct": 44.2,
+      "meta_fisica_aceita": 3000,
       "municipios": [
         {
           "nome": "BARRA DO GARÇAS",
@@ -4962,11 +5166,19 @@
           "meta": 100.0
         },
         {
+          "nome": "BARÃO DE MELGAÇO",
+          "meta": 100.0
+        },
+        {
           "nome": "CANARANA",
           "meta": 100.0
         },
         {
           "nome": "CHAPADA DOS GUIMARÃES",
+          "meta": 100.0
+        },
+        {
+          "nome": "CLÁUDIA",
           "meta": 100.0
         },
         {
@@ -4983,6 +5195,10 @@
         },
         {
           "nome": "JUSCIMEIRA",
+          "meta": 100.0
+        },
+        {
+          "nome": "NORTELÂNDIA",
           "meta": 100.0
         },
         {
@@ -5017,9 +5233,9 @@
     },
     "PA": {
       "total": 133,
-      "aderiram": 106,
-      "pct": 79.7,
-      "meta_fisica_aceita": 26900,
+      "aderiram": 122,
+      "pct": 91.7,
+      "meta_fisica_aceita": 30950,
       "municipios": [
         {
           "nome": "ACARÁ",
@@ -5028,6 +5244,10 @@
         {
           "nome": "ITUPIRANGA",
           "meta": 1200.0
+        },
+        {
+          "nome": "ANANINDEUA",
+          "meta": 1000.0
         },
         {
           "nome": "PORTEL",
@@ -5118,6 +5338,10 @@
           "meta": 300.0
         },
         {
+          "nome": "ANAPU",
+          "meta": 300.0
+        },
+        {
           "nome": "AURORA DO PARÁ",
           "meta": 300.0
         },
@@ -5146,7 +5370,19 @@
           "meta": 300.0
         },
         {
+          "nome": "IRITUIA",
+          "meta": 300.0
+        },
+        {
+          "nome": "ITAITUBA",
+          "meta": 300.0
+        },
+        {
           "nome": "MÃE DO RIO",
+          "meta": 300.0
+        },
+        {
+          "nome": "MUANÁ",
           "meta": 300.0
         },
         {
@@ -5162,6 +5398,10 @@
           "meta": 300.0
         },
         {
+          "nome": "RONDON DO PARÁ",
+          "meta": 300.0
+        },
+        {
           "nome": "SANTA MARIA DO PARÁ",
           "meta": 300.0
         },
@@ -5171,6 +5411,10 @@
         },
         {
           "nome": "SÃO SEBASTIÃO DA BOA VISTA",
+          "meta": 300.0
+        },
+        {
+          "nome": "TRACUATEUA",
           "meta": 300.0
         },
         {
@@ -5238,6 +5482,10 @@
           "meta": 200.0
         },
         {
+          "nome": "SÃO MIGUEL DO GUAMÁ",
+          "meta": 200.0
+        },
+        {
           "nome": "TAILÂNDIA",
           "meta": 200.0
         },
@@ -5262,6 +5510,10 @@
           "meta": 150.0
         },
         {
+          "nome": "ANAJÁS",
+          "meta": 150.0
+        },
+        {
           "nome": "AUGUSTO CORRÊA",
           "meta": 150.0
         },
@@ -5275,6 +5527,10 @@
         },
         {
           "nome": "CACHOEIRA DO PIRIÁ",
+          "meta": 150.0
+        },
+        {
+          "nome": "CACHOEIRA DO ARARI",
           "meta": 150.0
         },
         {
@@ -5295,6 +5551,10 @@
         },
         {
           "nome": "LIMOEIRO DO AJURU",
+          "meta": 150.0
+        },
+        {
+          "nome": "MARACANÃ",
           "meta": 150.0
         },
         {
@@ -5346,6 +5606,14 @@
           "meta": 150.0
         },
         {
+          "nome": "SÃO DOMINGOS DO ARAGUAIA",
+          "meta": 150.0
+        },
+        {
+          "nome": "SAPUCAIA",
+          "meta": 150.0
+        },
+        {
           "nome": "SOURE",
           "meta": 150.0
         },
@@ -5382,6 +5650,14 @@
           "meta": 100.0
         },
         {
+          "nome": "CUMARU DO NORTE",
+          "meta": 100.0
+        },
+        {
+          "nome": "CURIONÓPOLIS",
+          "meta": 100.0
+        },
+        {
           "nome": "CURUÁ",
           "meta": 100.0
         },
@@ -5411,6 +5687,10 @@
         },
         {
           "nome": "PALESTINA DO PARÁ",
+          "meta": 100.0
+        },
+        {
+          "nome": "PEIXE-BOI",
           "meta": 100.0
         },
         {
@@ -5449,9 +5729,9 @@
     },
     "PB": {
       "total": 195,
-      "aderiram": 187,
-      "pct": 95.9,
-      "meta_fisica_aceita": 39550,
+      "aderiram": 188,
+      "pct": 96.4,
+      "meta_fisica_aceita": 39650,
       "municipios": [
         {
           "nome": "JOÃO PESSOA",
@@ -6094,6 +6374,10 @@
           "meta": 100.0
         },
         {
+          "nome": "JUNCO DO SERIDÓ",
+          "meta": 100.0
+        },
+        {
           "nome": "JURIPIRANGA",
           "meta": 100.0
         },
@@ -6205,9 +6489,9 @@
     },
     "PE": {
       "total": 179,
-      "aderiram": 114,
-      "pct": 63.7,
-      "meta_fisica_aceita": 29650,
+      "aderiram": 135,
+      "pct": 75.4,
+      "meta_fisica_aceita": 33850,
       "municipios": [
         {
           "nome": "GARANHUNS",
@@ -6224,6 +6508,10 @@
         {
           "nome": "PETROLINA",
           "meta": 900.0
+        },
+        {
+          "nome": "BEZERROS",
+          "meta": 800.0
         },
         {
           "nome": "GRAVATÁ",
@@ -6294,7 +6582,15 @@
           "meta": 300.0
         },
         {
+          "nome": "BOM JARDIM",
+          "meta": 300.0
+        },
+        {
           "nome": "BONITO",
+          "meta": 300.0
+        },
+        {
+          "nome": "BREJO DA MADRE DE DEUS",
           "meta": 300.0
         },
         {
@@ -6354,6 +6650,10 @@
           "meta": 300.0
         },
         {
+          "nome": "MACAPARANA",
+          "meta": 300.0
+        },
+        {
           "nome": "OROBÓ",
           "meta": 300.0
         },
@@ -6402,6 +6702,10 @@
           "meta": 200.0
         },
         {
+          "nome": "BREJÃO",
+          "meta": 200.0
+        },
+        {
           "nome": "BREJINHO",
           "meta": 200.0
         },
@@ -6446,6 +6750,10 @@
           "meta": 200.0
         },
         {
+          "nome": "CORTÊS",
+          "meta": 200.0
+        },
+        {
           "nome": "FERREIROS",
           "meta": 200.0
         },
@@ -6459,6 +6767,14 @@
         },
         {
           "nome": "INGAZEIRA",
+          "meta": 200.0
+        },
+        {
+          "nome": "IPOJUCA",
+          "meta": 200.0
+        },
+        {
+          "nome": "ITAÍBA",
           "meta": 200.0
         },
         {
@@ -6530,6 +6846,10 @@
           "meta": 200.0
         },
         {
+          "nome": "SALGUEIRO",
+          "meta": 200.0
+        },
+        {
           "nome": "SANTA CRUZ DO CAPIBARIBE",
           "meta": 200.0
         },
@@ -6555,6 +6875,10 @@
         },
         {
           "nome": "TRACUNHAÉM",
+          "meta": 200.0
+        },
+        {
+          "nome": "TRIUNFO",
           "meta": 200.0
         },
         {
@@ -6586,11 +6910,23 @@
           "meta": 150.0
         },
         {
+          "nome": "PASSIRA",
+          "meta": 150.0
+        },
+        {
+          "nome": "POMBOS",
+          "meta": 150.0
+        },
+        {
           "nome": "RIBEIRÃO",
           "meta": 150.0
         },
         {
           "nome": "SANTA MARIA DA BOA VISTA",
+          "meta": 150.0
+        },
+        {
+          "nome": "SÃO CAITANO",
           "meta": 150.0
         },
         {
@@ -6606,12 +6942,24 @@
           "meta": 150.0
         },
         {
+          "nome": "SIRINHAÉM",
+          "meta": 150.0
+        },
+        {
           "nome": "TAQUARITINGA DO NORTE",
           "meta": 150.0
         },
         {
           "nome": "TORITAMA",
           "meta": 150.0
+        },
+        {
+          "nome": "AFRÂNIO",
+          "meta": 100.0
+        },
+        {
+          "nome": "ANGELIM",
+          "meta": 100.0
         },
         {
           "nome": "BARRA DE GUABIRABA",
@@ -6630,11 +6978,19 @@
           "meta": 100.0
         },
         {
+          "nome": "INAJÁ",
+          "meta": 100.0
+        },
+        {
           "nome": "LAGOA DO OURO",
           "meta": 100.0
         },
         {
           "nome": "MANARI",
+          "meta": 100.0
+        },
+        {
+          "nome": "PRIMAVERA",
           "meta": 100.0
         },
         {
@@ -6650,6 +7006,10 @@
           "meta": 100.0
         },
         {
+          "nome": "SÃO JOSÉ DA COROA GRANDE",
+          "meta": 100.0
+        },
+        {
           "nome": "SÃO VICENTE FERRER",
           "meta": 100.0
         },
@@ -6658,7 +7018,15 @@
           "meta": 100.0
         },
         {
+          "nome": "MOREILÂNDIA",
+          "meta": 100.0
+        },
+        {
           "nome": "TACAIMBÓ",
+          "meta": 100.0
+        },
+        {
+          "nome": "VENTUROSA",
           "meta": 100.0
         },
         {
@@ -7493,9 +7861,9 @@
     },
     "PR": {
       "total": 64,
-      "aderiram": 36,
-      "pct": 56.2,
-      "meta_fisica_aceita": 4000,
+      "aderiram": 38,
+      "pct": 59.4,
+      "meta_fisica_aceita": 4200,
       "municipios": [
         {
           "nome": "IRATI",
@@ -7558,6 +7926,10 @@
           "meta": 100.0
         },
         {
+          "nome": "CHOPINZINHO",
+          "meta": 100.0
+        },
+        {
           "nome": "CLEVELÂNDIA",
           "meta": 100.0
         },
@@ -7614,6 +7986,10 @@
           "meta": 100.0
         },
         {
+          "nome": "QUINTA DO SOL",
+          "meta": 100.0
+        },
+        {
           "nome": "RIBEIRÃO DO PINHAL",
           "meta": 100.0
         },
@@ -7645,10 +8021,14 @@
     },
     "RJ": {
       "total": 50,
-      "aderiram": 23,
-      "pct": 46.0,
-      "meta_fisica_aceita": 13700,
+      "aderiram": 27,
+      "pct": 54.0,
+      "meta_fisica_aceita": 18400,
       "municipios": [
+        {
+          "nome": "NOVA IGUAÇU",
+          "meta": 4000.0
+        },
         {
           "nome": "CAMPOS DOS GOYTACAZES",
           "meta": 2600.0
@@ -7683,6 +8063,10 @@
         },
         {
           "nome": "ITAPERUNA",
+          "meta": 500.0
+        },
+        {
+          "nome": "PATY DO ALFERES",
           "meta": 500.0
         },
         {
@@ -7730,6 +8114,10 @@
           "meta": 150.0
         },
         {
+          "nome": "COMENDADOR LEVY GASPARIAN",
+          "meta": 100.0
+        },
+        {
           "nome": "ENGENHEIRO PAULO DE FRONTIN",
           "meta": 100.0
         },
@@ -7740,14 +8128,18 @@
         {
           "nome": "PORCIÚNCULA",
           "meta": 100.0
+        },
+        {
+          "nome": "SAPUCAIA",
+          "meta": 100.0
         }
       ]
     },
     "RN": {
       "total": 144,
-      "aderiram": 121,
-      "pct": 84.0,
-      "meta_fisica_aceita": 21650,
+      "aderiram": 125,
+      "pct": 86.8,
+      "meta_fisica_aceita": 22200,
       "municipios": [
         {
           "nome": "PARNAMIRIM",
@@ -7978,6 +8370,10 @@
           "meta": 200.0
         },
         {
+          "nome": "UMARIZAL",
+          "meta": 200.0
+        },
+        {
           "nome": "VERA CRUZ",
           "meta": 200.0
         },
@@ -8054,6 +8450,10 @@
           "meta": 150.0
         },
         {
+          "nome": "PAU DOS FERROS",
+          "meta": 150.0
+        },
+        {
           "nome": "PEDRA GRANDE",
           "meta": 150.0
         },
@@ -8110,6 +8510,10 @@
           "meta": 100.0
         },
         {
+          "nome": "ITAÚ",
+          "meta": 100.0
+        },
+        {
           "nome": "JANUÁRIO CICCO",
           "meta": 100.0
         },
@@ -8147,6 +8551,10 @@
         },
         {
           "nome": "OURO BRANCO",
+          "meta": 100.0
+        },
+        {
+          "nome": "PARANÁ",
           "meta": 100.0
         },
         {
@@ -8237,9 +8645,9 @@
     },
     "RO": {
       "total": 34,
-      "aderiram": 16,
-      "pct": 47.1,
-      "meta_fisica_aceita": 2050,
+      "aderiram": 17,
+      "pct": 50.0,
+      "meta_fisica_aceita": 2150,
       "municipios": [
         {
           "nome": "CACOAL",
@@ -8294,6 +8702,10 @@
           "meta": 100.0
         },
         {
+          "nome": "MONTE NEGRO",
+          "meta": 100.0
+        },
+        {
           "nome": "SÃO FRANCISCO DO GUAPORÉ",
           "meta": 100.0
         },
@@ -8309,9 +8721,9 @@
     },
     "RR": {
       "total": 15,
-      "aderiram": 9,
-      "pct": 60.0,
-      "meta_fisica_aceita": 1400,
+      "aderiram": 11,
+      "pct": 73.3,
+      "meta_fisica_aceita": 1800,
       "municipios": [
         {
           "nome": "AMAJARI",
@@ -8322,11 +8734,19 @@
           "meta": 200.0
         },
         {
+          "nome": "CARACARAÍ",
+          "meta": 200.0
+        },
+        {
           "nome": "CAROEBE",
           "meta": 200.0
         },
         {
           "nome": "IRACEMA",
+          "meta": 200.0
+        },
+        {
+          "nome": "MUCAJAÍ",
           "meta": 200.0
         },
         {
@@ -8353,9 +8773,9 @@
     },
     "RS": {
       "total": 85,
-      "aderiram": 38,
-      "pct": 44.7,
-      "meta_fisica_aceita": 5100,
+      "aderiram": 40,
+      "pct": 47.1,
+      "meta_fisica_aceita": 5350,
       "municipios": [
         {
           "nome": "PASSO FUNDO",
@@ -8391,6 +8811,10 @@
         },
         {
           "nome": "ESTRELA",
+          "meta": 150.0
+        },
+        {
+          "nome": "FREDERICO WESTPHALEN",
           "meta": 150.0
         },
         {
@@ -8466,6 +8890,10 @@
           "meta": 100.0
         },
         {
+          "nome": "GIRUÁ",
+          "meta": 100.0
+        },
+        {
           "nome": "IMBÉ",
           "meta": 100.0
         },
@@ -8513,10 +8941,14 @@
     },
     "SC": {
       "total": 7,
-      "aderiram": 2,
-      "pct": 28.6,
-      "meta_fisica_aceita": 250,
+      "aderiram": 3,
+      "pct": 42.9,
+      "meta_fisica_aceita": 450,
       "municipios": [
+        {
+          "nome": "BALNEÁRIO CAMBORIÚ",
+          "meta": 200.0
+        },
         {
           "nome": "TIJUCAS",
           "meta": 150.0
@@ -8529,9 +8961,9 @@
     },
     "SE": {
       "total": 70,
-      "aderiram": 58,
-      "pct": 82.9,
-      "meta_fisica_aceita": 10500,
+      "aderiram": 59,
+      "pct": 84.3,
+      "meta_fisica_aceita": 10650,
       "municipios": [
         {
           "nome": "ITABAIANA",
@@ -8647,6 +9079,10 @@
         },
         {
           "nome": "BARRA DOS COQUEIROS",
+          "meta": 150.0
+        },
+        {
+          "nome": "BOQUIM",
           "meta": 150.0
         },
         {
@@ -8769,9 +9205,9 @@
     },
     "SP": {
       "total": 212,
-      "aderiram": 76,
-      "pct": 35.8,
-      "meta_fisica_aceita": 13400,
+      "aderiram": 82,
+      "pct": 38.7,
+      "meta_fisica_aceita": 14350,
       "municipios": [
         {
           "nome": "SÃO JOSÉ DO RIO PRETO",
@@ -8808,6 +9244,10 @@
         {
           "nome": "SUMARÉ",
           "meta": 300.0
+        },
+        {
+          "nome": "CÂNDIDO MOTA",
+          "meta": 250.0
         },
         {
           "nome": "BARRA DO TURVO",
@@ -8882,11 +9322,19 @@
           "meta": 150.0
         },
         {
+          "nome": "LIMEIRA",
+          "meta": 150.0
+        },
+        {
           "nome": "MIRANDÓPOLIS",
           "meta": 150.0
         },
         {
           "nome": "PEDERNEIRAS",
+          "meta": 150.0
+        },
+        {
+          "nome": "PEREIRA BARRETO",
           "meta": 150.0
         },
         {
@@ -8899,6 +9347,14 @@
         },
         {
           "nome": "RIO DAS PEDRAS",
+          "meta": 150.0
+        },
+        {
+          "nome": "SÃO MANUEL",
+          "meta": 150.0
+        },
+        {
+          "nome": "VARGEM GRANDE DO SUL",
           "meta": 150.0
         },
         {
@@ -8987,6 +9443,10 @@
         },
         {
           "nome": "IRAPUÃ",
+          "meta": 100.0
+        },
+        {
+          "nome": "ITAJOBI",
           "meta": 100.0
         },
         {
@@ -9081,9 +9541,9 @@
     },
     "TO": {
       "total": 65,
-      "aderiram": 48,
-      "pct": 73.8,
-      "meta_fisica_aceita": 6200,
+      "aderiram": 49,
+      "pct": 75.4,
+      "meta_fisica_aceita": 6300,
       "municipios": [
         {
           "nome": "TOCANTINÓPOLIS",
@@ -9194,6 +9654,10 @@
           "meta": 100.0
         },
         {
+          "nome": "DOIS IRMÃOS DO TOCANTINS",
+          "meta": 100.0
+        },
+        {
           "nome": "DUERÉ",
           "meta": 100.0
         },
@@ -9281,7 +9745,7 @@
     }
   },
   "meta": {
-    "updated_at": "2026-11-11T12:52:29.889428+00:00",
+    "updated_at": "2026-11-19T12:10:25.936108+00:00",
     "linhas_lidas": 2986,
     "linhas_ignoradas": 0,
     "ufs_encontradas": 27
